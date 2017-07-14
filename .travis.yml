@@ -1,6 +1,6 @@
 language: bash
 services: docker
-
+test
 env:
   - VERSION=7.2-rc VARIANT=
   - VERSION=7.2-rc VARIANT=alpine
